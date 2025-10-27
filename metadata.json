@@ -1,0 +1,5 @@
+{
+  "name": "AI Profile Generator for GitHub Pages",
+  "description": "A web application that uses AI to generate professional and creative profile bios, perfect for your GitHub Pages portfolio. Simply enter a few keywords about your skills and interests, and let Gemini craft the perfect bio for you.",
+  "requestFramePermissions": []
+}
